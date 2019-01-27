@@ -1,0 +1,22 @@
+C:\Users\ibi\Desktop\calculator 2.0\calculator 2.0\bin\Debug\calculator 2.0.exe.config
+C:\Users\ibi\Desktop\calculator 2.0\calculator 2.0\obj\Debug\calculator_2._0.Resources.resources
+C:\Users\ibi\Desktop\calculator 2.0\calculator 2.0\obj\Debug\calculator 2.0.vbproj.GenerateResource.Cache
+C:\Users\ibi\Desktop\calculator 2.0\calculator 2.0\bin\Debug\calculator 2.0.exe
+C:\Users\ibi\Desktop\calculator 2.0\calculator 2.0\bin\Debug\calculator 2.0.pdb
+C:\Users\ibi\Desktop\calculator 2.0\calculator 2.0\bin\Debug\calculator 2.0.xml
+C:\Users\ibi\Desktop\calculator 2.0\calculator 2.0\obj\Debug\calculator 2.0.exe
+C:\Users\ibi\Desktop\calculator 2.0\calculator 2.0\obj\Debug\calculator 2.0.xml
+C:\Users\ibi\Desktop\calculator 2.0\calculator 2.0\obj\Debug\calculator 2.0.pdb
+C:\Users\ibi\Desktop\calculator 2.0\calculator 2.0\obj\Debug\calculator_2._0.tltippi.resources
+E:\visual share\calculator 2.0\calculator 2.0\bin\Debug\calculator 2.0.exe.config
+E:\visual share\calculator 2.0\calculator 2.0\bin\Debug\calculator 2.0.exe
+E:\visual share\calculator 2.0\calculator 2.0\bin\Debug\calculator 2.0.pdb
+E:\visual share\calculator 2.0\calculator 2.0\bin\Debug\calculator 2.0.xml
+E:\visual share\calculator 2.0\calculator 2.0\obj\Debug\calculator 2.0.vbprojAssemblyReference.cache
+E:\visual share\calculator 2.0\calculator 2.0\obj\Debug\calculator_2._0.tltippi.resources
+E:\visual share\calculator 2.0\calculator 2.0\obj\Debug\calculator_2._0.Resources.resources
+E:\visual share\calculator 2.0\calculator 2.0\obj\Debug\calculator 2.0.vbproj.GenerateResource.cache
+E:\visual share\calculator 2.0\calculator 2.0\obj\Debug\calculator 2.0.vbproj.CoreCompileInputs.cache
+E:\visual share\calculator 2.0\calculator 2.0\obj\Debug\calculator 2.0.exe
+E:\visual share\calculator 2.0\calculator 2.0\obj\Debug\calculator 2.0.xml
+E:\visual share\calculator 2.0\calculator 2.0\obj\Debug\calculator 2.0.pdb
